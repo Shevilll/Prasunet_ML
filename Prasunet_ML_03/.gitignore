@@ -1,0 +1,5 @@
+/test1
+/train
+/valid
+model.keras
+vgg16_weights_tf_dim_ordering_tf_kernels.h5
